@@ -1,6 +1,7 @@
 streamlit
-PyMuPDF==1.22.3
-sentence-transformers==2.2.2
-pdfminer.six==20221105
-scikit-learn==1.3.0
-pandas==1.5.3
+PyMuPDF
+sentence-transformers
+pdfminer.six
+scikit-learn
+pandas
+
