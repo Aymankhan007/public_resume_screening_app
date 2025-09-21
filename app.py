@@ -7,7 +7,7 @@ from utils import highlight_skills
 
 
 st.set_page_config(page_title="Resume Screening App", layout="wide")
-st.title("🤖 AI Resume Screening App By Ayman222")
+st.title("🤖 AI Resume Screening App By Ayman Major Project-1")
 
 # Input section
 jd_text = st.text_area("📄 Paste the Job Description", height=200)
@@ -53,3 +53,4 @@ if st.button("🔍 Screen Resumes"):
                 st.success(f"✅ Skills Matched: {matched}")
 
                 st.markdown("---")
+
